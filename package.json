@@ -4,7 +4,7 @@
   "description": "COMP2156 - Developer Operations | 101527281 Alexis Mai",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Warn: No tests created yet.\" && exit 1"
+    "test": "echo \"Warn: No tests created yet.\""
   },
   "repository": {
     "type": "git",

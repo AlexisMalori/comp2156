@@ -1,0 +1,11 @@
+This is a helpful text file to practice using Git (and to remember commands better)
+
+> git add [filename]
+
+> git commit -m "desc"
+commit changes to main branch
+
+> git branch -M main
+
+> git push -u origin main
+push changes to main branch.
